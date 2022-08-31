@@ -42,8 +42,7 @@ for (var i=0 ; i<buttons.length ; i++) {
           operand2 = null;
           operator = null;
       }
-    }
-    else{
+  }else{
       display.textContent+=value ;
     }
   });
